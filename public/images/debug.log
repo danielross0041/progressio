@@ -1,0 +1,41 @@
+[0424/233634.492:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-00000144051030C0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0424/233634.519:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-00000144051030C0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0424/233634.520:ERROR:gles2_cmd_decoder.cc(17817)] [.BrowserCompositor-00000144051030C0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0424/233634.521:ERROR:gles2_cmd_decoder.cc(10372)] [.BrowserCompositor-00000144051030C0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0424/233634.585:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(77,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(99,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0425/003856.150:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0425/003856.330:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0425/205734.085:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205739.093:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205744.133:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205749.141:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205754.156:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205759.164:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205804.170:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205809.176:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205814.180:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205819.185:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205824.191:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205829.199:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205834.204:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0425/205839.210:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143432.638:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143437.678:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143442.695:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143447.709:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143452.727:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143457.745:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143502.763:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143507.779:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143512.797:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143517.815:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143522.834:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143527.851:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143532.867:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0520/143537.886:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
